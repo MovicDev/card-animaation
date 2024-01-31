@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+	padding:0px;
+
+}
+img{
+      width:300px;
+	  height:200px;
+}
+
+.button{background:red;
+border-radius:35px;
+padding:8px 20px;
+
+}
+.button:hover{background-color:transparent;
+color:#999999;
+}
